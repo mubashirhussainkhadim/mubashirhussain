@@ -38,8 +38,8 @@ How to run the mubashirmoters_carshowroommanagmentsystem-in-php Project
 4. Open PHPMyAdmin (http://localhost/phpmyadmin)
 5. Create a database with name csmsdb
 6. Import csmsdb.sql file(given inside the zip package in SQL file folder)
-7.Run the script http://localhost/csms (frontend)
-8.Run the script http://localhost/csms/admin (admin)
+7.Run the script http://localhost/mubashirmoters_carshowroommanagmentsystem-in-php (frontend)
+8.Run the script http://localhost/mubashirmoters_carshowroommanagmentsystem-in-php the go to login page
 Credential for admin panel :
 Username: admin
 Password: Aa123456
