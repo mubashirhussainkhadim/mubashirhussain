@@ -12,7 +12,7 @@ In this project, we use PHP and  Mysql database. It has two module
  User:  User can view the website and checkout the information about cars and they can also enquiry about the car.
 Admin Module
 Admin is the superuser of the website who can manage everything on the website. Admin can log in through the login page
-
+note : unzip zip staff , img and database folder in project directory
 Dashboard: In this section, admin can see all detail in brief like the total car company, Total Enquiry, and Total Car Listed
 Company Info: In this section, admin can mange car company information(add/update).
 Car info: In this section, admin can manage car information(add/update).
